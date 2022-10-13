@@ -1,0 +1,26 @@
+{
+  "name": "book_doit_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src",
+    "build": "tsc && node dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aui9f/book_doit_ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aui9f/book_doit_ts/issues"
+  },
+  "homepage": "https://github.com/aui9f/book_doit_ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
